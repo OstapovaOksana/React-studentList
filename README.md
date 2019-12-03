@@ -1,3 +1,3 @@
 # lesson-6
 
-Demo: https://react-course-lesson-6.surge.sh/
+Demo: https://studentList.surge.sh/
