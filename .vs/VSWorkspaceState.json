@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\screens",
+    "\\src\\screens\\common",
+    "\\src\\screens\\common\\StudentsList",
+    "\\src\\screens\\Root",
+    "\\src\\screens\\StudentScreen",
+    "\\src\\screens\\StudentsListScreen",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\screens\\StudentsListScreen\\index.js",
+  "PreviewInSolutionExplorer": false
+}
